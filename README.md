@@ -1,7 +1,7 @@
 # Instrucciones
 
 ## Instalar dependecias
-`npm start`
+`npm install`
 
 ## Iniciar aplicación
 `npm start`
